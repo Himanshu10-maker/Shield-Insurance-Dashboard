@@ -52,3 +52,5 @@ Data Modeling
 Excel
 
 Data Visualization & Storytelling
+
+# Explore the Live Dashboard : https://app.powerbi.com/view?r=eyJrIjoiMmRiZDEzMTktMDI3YS00MWY3LWFiYmMtZTBlZDk0Y2QwYTc0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
